@@ -5,7 +5,7 @@
 🚀 **راه‌اندازی سرور:**
 
  فایل ZIP سرور را از لینک زیر دانلود کنید:  
-   [دانلود سرور Survival]([https://link-to-your-file.com](https://www.mediafire.com/file/no3zdh7pmvgnd5o/SkyMine+SetUp.zip/file))  .
+   [دانلود سرور Survival](https://www.mediafire.com/file/no3zdh7pmvgnd5o/SkyMine+SetUp.zip/file) .
 
 استخراج فایل‌ها: فایل ZIP را در مسیر دلخواه روی سیستم خود استخراج کنید.
 
